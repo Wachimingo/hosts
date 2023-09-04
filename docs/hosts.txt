@@ -66,3 +66,8 @@
 0.0.0.0 youtube.com/api/stats/
 0.0.0.0 googletagmanager.com
 0.0.0.0 analytics.google.com
+0.0.0.0 gstatic.com
+0.0.0.0 play.google.com
+0.0.0.0 ssl.gstatic.com
+0.0.0.0 signaler-pa.clients6.google.com
+0.0.0.0 smartadserver.com
