@@ -71,3 +71,7 @@
 0.0.0.0 ssl.gstatic.com
 0.0.0.0 signaler-pa.clients6.google.com
 0.0.0.0 smartadserver.com
+0.0.0.0 chat.google.com
+0.0.0.0 172.64.102.11
+0.0.0.0 use.fontawesome.com
+0.0.0.0 fonts.googleapis.com
