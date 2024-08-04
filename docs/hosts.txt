@@ -115,3 +115,7 @@
 127.0.0.1 anythinktech.com
 127.0.0.1 yandex.net
 127.0.0.1 webvisor.com
+127.0.0.1 connect.facebook.net
+127.0.0.1 facebook.com
+127.0.0.1 facebook.net
+127.0.0.1 buyfrightencheckup.com
